@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Sayed Navid Azimi 👋  
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-<!--
-**Navid-Azimi/Navid-Azimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Web Developer** | **Senior WordPress Developer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I specialize in crafting robust, user-friendly, and scalable web applications. With expertise in Laravel, CodeIgniter, and WordPress, I deliver solutions that empower businesses and enhance user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I Do:
+- 🌐 **Full Stack Development**: Tailored web applications built for performance and scalability.
+- 🔌 **API Integration**: Robust APIs for seamless communication between systems.
+- 🗄️ **Database Management**: Scalable and secure database design and optimization.
+- 🎨 **WordPress Solutions**: Custom themes, plugins, and seamless migrations.
+- ⚡ **Performance Optimization**: Speed and responsiveness for an outstanding user experience.
+- 🔒 **Website Security**: Advanced measures to safeguard your online presence.
+
+---
+
+## 🌟 My Key Projects:
+<div align="center">
+  <img src="https://via.placeholder.com/400x200?text=Movie.af+Preview" alt="Movie.af Screenshot" width="400" />
+  <img src="https://via.placeholder.com/400x200?text=Software.af+Preview" alt="Software.af Screenshot" width="400" />
+</div>
+
+- **[Movie.af](https://movie.af)**: Advanced movie platform with seamless user experience.
+- **[Software.af](https://software.af)**: A comprehensive software directory with custom features.
+- **[Amoozesh.af](https://amoozesh.af)**: Educational platform designed for scalability and interactivity.
+
+Find more projects in my [portfolio](https://snavid.dev).
+
+---
+
+## 🎓 Certifications:
+- 🥇 **PHP Developer** (SoloLearn)
+- 🥇 **React.js Essential Training** (LinkedIn)
+- 🥇 **SEO Foundations** (LinkedIn)
+
+---
+
+## 📫 Connect with Me:
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-snavid.dev-blue)](https://snavid.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-snavid-informational)](https://www.linkedin.com/in/snavid)
+[![Email Badge](https://img.shields.io/badge/Email-me@snavid.dev-critical)](mailto:me@snavid.dev)
+
+---
+
+![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
+Let’s collaborate to create something extraordinary! 💡
