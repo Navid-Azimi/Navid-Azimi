@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://snavid.dev/assets/images/logo2.png" alt="Sayed Navid Azimi Logo" width="150" />
+</div>
+
 # Hi there, I'm Sayed Navid Azimi 👋  
 ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
