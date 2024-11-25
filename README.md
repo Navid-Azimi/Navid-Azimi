@@ -19,13 +19,13 @@ Welcome to my GitHub! I specialize in crafting robust, user-friendly, and scalab
 
 ## 🌟 My Key Projects:
 <div align="center">
-  <img src="https://via.placeholder.com/400x200?text=Movie.af+Preview" alt="Movie.af Screenshot" width="400" />
-  <img src="https://via.placeholder.com/400x200?text=Software.af+Preview" alt="Software.af Screenshot" width="400" />
+  <img src="https://snavid.dev/assets/portfolio/Cyborg%20Laptop.jpg" alt="Cyborg Tech Website Screenshot" width="400" />
+  <img src="https://snavid.dev/assets/portfolio/software_af.jpg" alt="Software.af Screenshot" width="400" />
 </div>
 
-- **[Movie.af](https://movie.af)**: Advanced movie platform with seamless user experience.
+- **[CyborgTech.co](https://CyborgTech.co)**: Advanced movie platform with seamless user experience.
 - **[Software.af](https://software.af)**: A comprehensive software directory with custom features.
-- **[Amoozesh.af](https://amoozesh.af)**: Educational platform designed for scalability and interactivity.
+- **[Movie.af](https://movie.af)**: Educational platform designed for scalability and interactivity.
 
 Find more projects in my [portfolio](https://snavid.dev).
 
