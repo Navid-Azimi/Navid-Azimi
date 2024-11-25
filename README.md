@@ -21,6 +21,7 @@ Welcome to my GitHub! I specialize in crafting robust, user-friendly, and scalab
 <div align="center">
   <img src="https://snavid.dev/assets/portfolio/Cyborg%20Laptop.jpg" alt="Cyborg Tech Website Screenshot" width="400" />
   <img src="https://snavid.dev/assets/portfolio/software_af.jpg" alt="Software.af Screenshot" width="400" />
+   <img src="https://snavid.dev/assets/portfolio/movie_af.jpg" alt="Cyborg Tech Website Screenshot" width="400" />
 </div>
 
 - **[CyborgTech.co](https://CyborgTech.co)**: Advanced movie platform with seamless user experience.
